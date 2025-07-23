@@ -1,4 +1,5 @@
 Features Overview:
+
 ● User Selection: A list of 10 users will be displayed on the UI. and You can also
 add more users from frontend and that user will store in the database as well.
 ● Claim Button: A button that, when clicked, awards random points (1 to 10) to the
